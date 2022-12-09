@@ -1,0 +1,222 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(151, 207, 206, 0);
+}
+
+
+
+body{
+    padding-top: 50px;
+}
+
+
+
+h1{
+    color:rgb(5, 65, 82);
+    background-color: rgb(194, 150, 205);
+    width: 100vw;
+    font-size: 3.5em;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1;
+    font-weight: 2000px;
+    border: 5px inset grey;
+    text-align: center;
+    position: fixed;
+    margin: -50px;
+    padding-left: 0px;
+}
+
+
+
+
+#element-for-modify-1{
+    padding: 10px 30px;
+    background-color: rgb(194, 150, 205);
+    display: inline-block;
+    font-weight: 1000;
+    text-align: center;
+    border: 5px inset grey;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+
+
+
+#element-for-modify-overol{
+    background-color: rgba(0, 0, 255, 0);
+    color: rgb(0, 0, 0);
+    padding: 5px 95px 5px 95px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+
+
+
+#element-for-modify-price-overol{
+    padding-left: 100px;
+    color: red;
+    display: inline-block;
+}
+
+
+
+
+#element-for-modify-send-free{
+    color: red;
+    margin-left: 10px;
+}
+
+
+
+#element-for-modify-overol-niña{
+    background-color: rgba(0, 0, 255, 0);
+    color: rgb(4, 0, 0);
+    padding: 5px 8px 5px 8px;
+    margin-left: 0px;
+}
+
+
+#element-for-modify-gorro-niña{
+    margin-left: 10px;
+    background-color: rgba(0, 0, 255, 0);
+    color: rgb(0, 0, 0);
+    padding: 5px 54px 5px 54px;
+}
+
+
+#element-for-modify-price-overol-niña{
+    display: inline-block;
+    padding-left: 150px;
+    color: red;
+}
+
+
+
+h2{
+    padding-left: 430px;
+}
+
+
+#element-for-modify-price-gorro-niña{
+    display: inline-block;
+    color: red;
+    margin-left: 15px;
+    background-color: rgba(0, 0, 255, 0);
+    margin-top: 0px;
+    text-align: center;
+    padding: 5px 90px 5px 90px;
+}
+
+#element-for-modify-gorro-azul-para-niña{
+    margin-left: -10px;
+    background-color: rgba(0, 0, 255, 0);
+    padding: 5px;
+    position: relative;
+
+}
+
+
+#element-for-modify-2{
+    padding: 10px 30px;
+    background-color: rgb(194, 150, 205);
+    display: inline-block;
+    font-weight: 1000;
+    text-align: center;
+    border: 5px inset grey;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+
+
+#element-for-modify-3{
+    padding: 10px 30px;
+    background-color: rgb(194, 150, 205);
+    display: inline-block;
+    font-weight: 1000;
+    text-align: center;
+    border: 5px inset grey;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+
+
+#element-for-modify-4{
+    padding: 10px 30px;
+    background-color: rgb(194, 150, 205);
+    display: inline-block;
+    font-weight: 1000;
+    text-align: center;
+    border: 5px inset grey;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+
+
+#element-for-modify-5{
+    padding: 10px 30px;
+    background-color: rgb(194, 150, 205);
+    display: inline-block;
+    font-weight: 1000;
+    text-align: center;
+    border: 5px inset grey;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+
+#element-for-modify-overol-niño{
+    background-color: rgba(0, 0, 255, 0);
+    padding: 10px;
+    margin-top: 0px;
+}
+
+
+
+
+#element-for-modify-overol-azul-de-niña{
+    margin-left: 10px;
+    background-color: rgba(0, 0, 255, 0);
+    padding: 10px;
+}
+
+
+footer{
+    background-color: rgb(194, 150, 205);
+    width: 100vw;
+
+}
+
+
+
+#element-for-modify-footer-1{
+    background-color: rgb(238, 236, 243);
+    display: inline-block;
+    position: relative;
+    z-index: 100;
+    margin-left: 30px;
+    margin-top: 25px;
+    border-radius: 10px;
+    color: rgb(1, 9, 255);
+}
+
+
+
+#element-for-modify-footer-2{
+    background-color: rgb(238, 236, 243);
+    display: inline-block;
+    position: relative;
+    margin-left: 600px;
+    margin-bottom: 30px;
+    margin-top: 25px;
+    border-radius: 10px;
+    color: rgb(1, 9, 255);
+}
